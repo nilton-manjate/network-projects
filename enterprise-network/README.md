@@ -9,7 +9,7 @@ The network is organized into three layers:
 1. **Core** - Responsible for interconnecting the entire network and providing connectivity to the Internet and servers.
 2. **Distribution** - Responsible for inter-VLAN routing and redundancy.
 3. **Access** - Connects end-host devices and distributes traffic to the distribution layer.
-![network topology](/images/topology.png)
+![network topology](/enterprise-network/images/topology.png)
 
 ## Subnets and VLANs
 The network was segmented using VLSM (Variable Length Subnet Mask) to optimize IPv4 addressing space.
