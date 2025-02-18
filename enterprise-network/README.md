@@ -199,27 +199,27 @@ To validate the configuration, the following commands were used:
 ```console
 show vlan brief
 ```
-![show vlan brief](/images/show-vlan-brief.png)
+![show vlan brief](/enterprise-network/images/show-vlan-brief.png)
 
 ### Spanning Tree Status
 ```console
 show spanning-tree
 ```
-![show spanning-tree](/images/show-span-vlan-10-20.png)
-![show spanning-tree](/images/show-span-vlan-30-40.png)
-![show spanning-tree](/images/show-span-vlan-50.png)
+![show spanning-tree](/enterprise-network/images/show-span-vlan-10-20.png)
+![show spanning-tree](/enterprise-network/images/show-span-vlan-30-40.png)
+![show spanning-tree](/enterprise-network/images/show-span-vlan-50.png)
 
 ### HSRP Status
 ```console
 show standby brief
 ```
-![show standby brief](/images/show-standby-brief.png)
+![show standby brief](/enterprise-network/images/show-standby-brief.png)
 
 ### Interfaces and Status
 ```console
 show ip interface brief
 ```
-![show ip interface brief](/images/show-ip-int-br.png)
+![show ip interface brief](/enterprise-network/images/show-ip-int-br.png)
 
 ## Future Plans
 - Configure the link between the distribution and core layers for Internet access.
